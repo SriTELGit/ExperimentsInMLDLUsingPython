@@ -61,6 +61,3 @@ target/
 
 # Notebook Checkpoints
 .ipynb_checkpoints/
-
-# code no checkin
-CodeFK/
